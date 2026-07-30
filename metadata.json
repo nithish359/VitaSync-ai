@@ -1,0 +1,6 @@
+{
+  "name": "VitaSync AI",
+  "description": "Autonomous post-surgery recovery monitoring system with AI vitals analysis, clinician sign-in authentication, and persistent clinical database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

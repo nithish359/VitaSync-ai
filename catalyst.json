@@ -1,0 +1,18 @@
+{
+  "project": {
+    "name": "VitaSync_AI",
+    "id": "100582000000001",
+    "org": "60012894102"
+  },
+  "functions": [
+    {
+      "name": "vitals_analyzer",
+      "type": "Advanced",
+      "stack": "node18",
+      "source": "functions/vitals_analyzer"
+    }
+  ],
+  "client": {
+    "source": "dist"
+  }
+}

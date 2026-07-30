@@ -1,0 +1,20 @@
+{
+  "name": "vitasync-ai-client",
+  "version": "1.0.0",
+  "description": "VitaSync AI Post-Surgery Recovery Dashboard Client for Zoho Catalyst",
+  "homepage": "index.html",
+  "scripts": {
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "catalyst": {
+    "client": {
+      "type": "basic",
+      "source": "dist",
+      "ignore": [
+        "node_modules",
+        ".git"
+      ]
+    }
+  }
+}
